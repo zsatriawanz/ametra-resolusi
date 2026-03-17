@@ -1,6 +1,5 @@
 Ametra Resolusi
 - Ingin memahami bahasa pemrograman java
 - Ingin Lebih mahir menggunakan javascript dan turunannya
-- Konsisten dalam pemrograman
 - Ingin Belajar Note.js
 - Ingin Paham Ajax
