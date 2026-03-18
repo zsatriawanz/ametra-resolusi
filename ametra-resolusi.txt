@@ -1,5 +1,8 @@
 Ametra Resolusi
 - Ingin memahami bahasa pemrograman java
+  + sudah mula algoritma
+  + sudah mulai instal aplikaisnya
+  + sudah mulai kesusahan
 - Ingin Lebih mahir menggunakan javascript dan turunannya
 - Ingin Belajar Note.js
 - Ingin Paham Ajax
